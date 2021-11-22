@@ -11,3 +11,6 @@ point to the other player.
 
 Anyway its all very rough and ready and cobbled together quickly just to show an example. Don't 
 bug me about it! 
+
+This is designed to work in the excellent Z80 assembler program ZEUS by Design Design / Simon
+Brattel. A true legend! 
